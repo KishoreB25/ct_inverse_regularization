@@ -1,0 +1,10 @@
+# Core dependencies for CT Inverse Regularization
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-image>=0.20.0
+matplotlib>=3.6.0
+
+# Optional dependencies (for clinical datasets and GPU acceleration)
+# dival>=0.6.0
+# odl>=0.8.0
+
